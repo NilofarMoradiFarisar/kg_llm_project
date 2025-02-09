@@ -1,0 +1,4 @@
+# Ignore dataset files
+data/
+
+*note.txt
